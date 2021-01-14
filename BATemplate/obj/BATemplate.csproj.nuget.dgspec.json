@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mica\\source\\repos\\BATemplate\\BATemplate\\BATemplate.csproj": {}
+    "C:\\Users\\Mica\\Desktop\\BATemplate\\BATemplate\\BATemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mica\\source\\repos\\BATemplate\\BATemplate\\BATemplate.csproj": {
+    "C:\\Users\\Mica\\Desktop\\BATemplate\\BATemplate\\BATemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mica\\source\\repos\\BATemplate\\BATemplate\\BATemplate.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\BATemplate\\BATemplate\\BATemplate.csproj",
         "projectName": "BATemplate",
-        "projectPath": "C:\\Users\\Mica\\source\\repos\\BATemplate\\BATemplate\\BATemplate.csproj",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\BATemplate\\BATemplate\\BATemplate.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mica\\source\\repos\\BATemplate\\BATemplate\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\BATemplate\\BATemplate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
